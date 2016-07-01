@@ -1,7 +1,7 @@
 {
     "room":                     "Slimakowy Pokoj",
     "author":                   "IDHAN",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "icon":                     null,
     "css":                      "https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/style.css",
     "rules": {
         "allowAutorespond":     true,

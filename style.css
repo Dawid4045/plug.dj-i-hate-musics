@@ -78,39 +78,6 @@
 	color: #2582da !important; 
 }
 
-/* Ikony po zmianie kolorów */
-.icon-chat-cohost, 
-.icon-chat-host
-{
-	background: url("http://i.imgur.com/MDRDE6p.png") !important;
-}
-.icon-chat-manager
-{
-	background: url("http://i.imgur.com/BmIikOO.png") !important;
-}
-.icon-chat-bouncer
-{
-	background: url("http://i.imgur.com/lRPqTPh.png") !important;
-}
-.icon-chat-dj
-{
-	background: url("http://i.imgur.com/7Dek3MY.png") !important;
-}
-.msg .from .icon-chat-manager
-{
-	margin-right: 6px !important; 
- 	margin-left: 4px !important;
-}
-
-#user-rollover .info .role i.icon-chat-dj
-{
-	background: url("http://i.imgur.com/7Dek3MY.png");
-}
-#user-rollover .info .role i.icon-chat-host
-{
-	background: url("http://i.imgur.com/MDRDE6p.png");
-}
-
 /* User Rollover from https://plug.dj/nightcore-331 */
 #user-rollover
 {

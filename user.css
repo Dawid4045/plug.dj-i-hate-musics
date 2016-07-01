@@ -77,39 +77,3 @@
     background-repeat:   no-repeat;
     background-position: center center;
 }
-
-/* Wumekk */
- .id-5390290 > .msg > .from:before {
-    content: url("http://puu.sh/jLKQx/bcbca1e608.png") !important;
-    float: left;
-    margin: 1px 4px 0px 0px;
-}
-.id-5390290 > .badge-box > i.bdg {
-    background-image: url("http://puu.sh/peB60/9455b8dca8.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 45px;
-}
-#user-rollover.id-5390290 .badge-box > i.bdg
-{
-    border-radius:       6px;
-    background-image:    url("http://puu.sh/peB60/9455b8dca8.gif");
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
-}
-
-/* Serce obok nicku */
-.id-10764385 > .msg > .from:before, 
-.id-10607990 > .msg > .from:before, 
-.id-6315115 > .msg > .from:before, 
-.id-10828076 > .msg > .from:before, 
-.id-8817701 > .msg > .from:before,
-.id-13955057 > .msg > .from:before,
-.id-6462179 > .msg > .from:before
-{
-    content: url("http://i.imgur.com/Ev9MdsC.png") !important;
-    float: left;
-    margin: 0px 3px 0px 0px;
-}

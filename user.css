@@ -77,3 +77,20 @@
     background-repeat:   no-repeat;
     background-position: center center;
 }
+
+/*Inne male zmiany*/
+ #volume .slider {
+    display: block !Important;
+}
+
+#woot-rs,
+#grab-rs,
+#meh-rs {
+    font-family: 'Patrick Hand', cursive !important;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.icon-chat-host > span {
+    color: #6a2d1d !important;
+}

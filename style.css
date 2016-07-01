@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,latin-ext); /* fix polskich znaków*/
 @import url(https://rawgit.com/WorstUdyrDE/a_DisStream_community/master/Plakietki_i_wszystko_podobne.css);
-/* Woot Grab Meh ikony */
+
+/* Woot-Grab-Meh */
  #woot i.icon {
     background-image: url("http://i.imgur.com/u5iwPJD.png");
     background-size: cover;
@@ -20,22 +21,24 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
-/*logo */
+
+/* Logo */
  #room-bar * {
     font-size: 0px;
 }
 #room-bar .icon-room {
     display: none;
 }
-/*Dzieki Dawid4045 za wyjebanie tla spod napisu :D */
+
+/* "Szyld" */
  #room-name {
     top: 6px;
     margin-left: 13px;
-    background: url("http://i.imgur.com/oEwUwv1.png") no-repeat top left content-box;
+    background: url("https://i.imgur.com/rDUbkAL.png") no-repeat top left content-box;
     height: 42px;
 }
 
-/*Inne male zmiany*/
+/* Inne male zmiany */
  #volume .slider {
     display: block !Important;
 }
@@ -80,7 +83,7 @@
 	color: #2582da !important; 
 }
 
-/*ikony po zmianie kolorów*/
+/* Ikony po zmianie kolorów */
 .icon-chat-cohost, 
 .icon-chat-host
 {
@@ -263,7 +266,7 @@
     margin-top: 23px !Important;
 }
 
-/*FROM RADIANT*/
+/* FROM RADIANT */
 /* To co jest tu od poczatku  */
  #user-lists .list.staff .group {
     background: linear-gradient(to right, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 1) 100%) !important;

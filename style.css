@@ -27,10 +27,10 @@
     font-size: 0px; 
 } 
  #room-name { 
-    top: 6px; 
+    top: 3px; 
     margin-left: 13px; 
     background: url("http://i.imgur.com/rDUbkAL.png") no-repeat top left content-box; 
-    height: 42px; 
+    height: 50px; 
 }
 
 /* Inne male zmiany */

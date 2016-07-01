@@ -22,20 +22,15 @@
     background-position: center center;
 }
 
-/* Logo */
- #room-bar * {
-    font-size: 0px;
-}
-#room-bar .icon-room {
-    display: none;
-}
-
-/* "Szyld" */
- #room-name {
-    top: 6px;
-    margin-left: 13px;
-    background: url("https://i.imgur.com/rDUbkAL.png") no-repeat top left content-box;
-    height: 42px;
+/* Logo */ 
+ #room-bar * { 
+    font-size: 0px; 
+} 
+ #room-name { 
+    top: 6px; 
+    margin-left: 13px; 
+    background: url("http://i.imgur.com/rDUbkAL.png") no-repeat top left content-box; 
+    height: 42px; 
 }
 
 /* Inne male zmiany */

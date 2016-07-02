@@ -45,6 +45,11 @@
     background-repeat:   no-repeat;
     background-position: center center;
 }
+[data-cid^="8502399"].cm .msg .from .un, #user-lists .list .role-host.id-8502399 .name
+{
+        /* Orange */
+        color: rgba(88, 82, 84, 1); !important;
+}
 
 /* Paulina */
 .id-10607990 > .badge-box > i.bdg {

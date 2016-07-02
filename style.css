@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,latin-ext); /* fix polskich znaków*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,latin-ext);
 @import url(https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/user.css);
 
 /* Woot-Grab-Meh */
- #woot i.icon {
+#woot i.icon {
     background-image: url("http://i.imgur.com/u5iwPJD.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -23,18 +23,18 @@
 }
 
 /* Logo */ 
- #room-bar * { 
+#room-bar * { 
     font-size: 0px; 
 } 
- #room-name { 
+#room-name { 
     top: 3px; 
     margin-left: 13px; 
     background: url("http://i.imgur.com/rDUbkAL.png") no-repeat top left content-box; 
     height: 50px; 
 }
 
-/* Inne male zmiany */
- #volume .slider {
+/* Inne małe zmiany */
+#volume .slider {
     display: block !Important;
 }
 #vote .crowd-response .top .label { 
@@ -48,34 +48,6 @@
     font-family: 'Patrick Hand', cursive !important;
     font-weight: 400;
     font-size: 17px;
-}
-
-.icon-chat-host > span {
-    color: #2582da !important;
-}
-.message.role-host,
-.message.role-cohost
-{
-    border-left:  #2582da 3px solid;
-}
-.icon-chat-dj + span 
-{ 
-	color: #5DB4FF !important; 
-}
-
-.icon-chat-bouncer + span 
-{ 
-	color: #F3508F !important; 
-}
-
-.icon-chat-manager + span 
-{ 
-	color: #14B866 !important; 
-}
-.icon-chat-host + span,
-.icon-chat-cohost + span,
-{ 
-	color: #2582da !important; 
 }
 
 /* User Rollover from https://plug.dj/nightcore-331 */

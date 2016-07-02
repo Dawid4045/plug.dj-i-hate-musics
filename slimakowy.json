@@ -1,52 +1,52 @@
 {
-    "room":"Slimakowy Pokoj",
-    "author":"IDHAN",
-    "icon":null,
-    "css":"https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/style.css",
+    "room":     "Slimakowy Pokoj",
+    "author":   "IDHAN",
+    "icon":     null,
+    "css":      "https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/style.css",
 
     "rules": {
-        "allowAutorespond":true,
-        "allowAutowoot":true,
-        "allowAutojoin":true,
-        "allowAutograb":true,
-        "allowSmartVote":true,
-        "allowEmotes":true,
-        "allowShowingMehs":true,
-        "forceSmartVote":false
+        "allowAutorespond": true,
+        "allowAutowoot":    true,
+        "allowAutojoin":    true,
+        "allowAutograb":    true,
+        "allowSmartVote":   true,
+        "allowEmotes":      true,
+        "allowShowingMehs": true,
+        "forceSmartVote":   false
     },
     
     "ccc": {
-        "admin":null,
-        "ambassador":null,
-        "host":"#94592a",
-        "cohost":null,
-        "manager":null,
-        "bouncer":null,
-        "rdj":null,
-        "subscriber":null,
-        "silversubscriber":null,
-        "friend":null,
-        "user":null
+        "admin":            null,
+        "ambassador":       null,
+        "host":             "#94592a",
+        "cohost":           null,
+        "manager":          null,
+        "bouncer":          null,
+        "rdj":              null,
+        "subscriber":       null,
+        "silversubscriber": null,
+        "friend":           null,
+        "user":             null
     },
 
     "images": {
-        "background":"https://i.imgur.com/N82wzhY.png",
-        "playback":null,
-        "admin":"https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "ambassador":"https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":"https://cdn.radiant.dj/rcs/icons/radiant/host.png",
-        "cohost":"https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
-        "manager":"https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":"https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":"https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-        "subscriber":null,
-        "silversubscriber":"https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "background":       "https://i.imgur.com/N82wzhY.png",
+        "playback":         null,
+        "admin":            "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":       "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":             "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
+        "cohost":           "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+        "manager":          "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+        "bouncer":          "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj":              "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber":       null,
+        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
 
     "autocomplete": [],
     
     "emotes": {
-        "nokappa": "http://i.imgur.com/S3DfdMO.png",
-        "rojoaha" : "http://i.imgur.com/SY284fP.png"
+        "nokappa":  "http://i.imgur.com/S3DfdMO.png",
+        "rojoaha":  "http://i.imgur.com/SY284fP.png"
     }
 }

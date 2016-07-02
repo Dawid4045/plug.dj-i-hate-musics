@@ -1,3 +1,19 @@
+/* Daria */
+.id-13955057 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/QIqgQu5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id-13955057 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/QIqgQu5.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /* Artur */
 .id-10542387 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/yawBN1j.gif");

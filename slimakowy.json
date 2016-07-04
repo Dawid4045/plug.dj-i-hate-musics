@@ -21,8 +21,8 @@
         "host":             "#ff9b00",
         "cohost":           "#ffdb00",
         "manager":          "#a4ff00",
-        "bouncer":          null,
-        "rdj":              "#5db4ff",
+        "bouncer":          "#5dfff9",
+        "rdj":              null,
         "subscriber":       null,
         "silversubscriber": null,
         "friend":           null,
@@ -34,13 +34,13 @@
         "playback":         null,
         "admin":            null,
         "ambassador":       null,
-        "host":             "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
+        "host":             "http://i.imgur.com/sdns9xW.png",
         "cohost":           "http://i.imgur.com/R4HZq1F.png",
         "manager":          "http://i.imgur.com/wP6AZhl.png",
-        "bouncer":          "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":              "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "bouncer":          "http://i.imgur.com/USwAyNY.png",
+        "rdj":              "http://i.imgur.com/ySSIWt3.png",
         "subscriber":       null,
-        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "silversubscriber": null
     },
 
     "autocomplete": [],

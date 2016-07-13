@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,latin-ext);
 @import url(https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/user.css);
+
 /* Woot-Grab-Meh */
 
 #woot i.icon {
@@ -58,6 +59,16 @@
   font-family: 'Patrick Hand', cursive !important;
   font-weight: 400;
   font-size: 17px;
+}
+
+#dj-button .left {
+  background: linear-gradient(to bottom, #00CC9E 0, #009C7A 100%);
+}
+
+#dj-button.is-leave .left,
+#dj-button.is-quit .left,
+.dialog.destructive .button.submit {
+  background: linear-gradient(to bottom, #A282B3 0, #8B7099 100%);
 }
 
 

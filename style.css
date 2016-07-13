@@ -2,8 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,latin-ext);
 @import url(https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/user.css);
 
-/*Mikey non important*/
-
 [data-cid^="6425281"].cm .msg .from .un,
 #user-lists .list.room .user.id-6425281 .name,
 #waitlist .list .user.id-6425281 .name + span {
@@ -488,4 +486,9 @@
 
 #footer .bar-button .section:last-child span {
   text-shadow: rgba(255, 255, 255, 0.498039) 0px 0px 15px, rgba(255, 255, 255, 0.498039) 0px 0px 10px;
+}
+[data-cid^="6425281"].cm .msg .from .un,
+#user-lists .list.room .user.id-6425281 .name,
+#waitlist .list .user.id-6425281 .name + span {
+  color: rgb(66, 165, 220) !important;
 }

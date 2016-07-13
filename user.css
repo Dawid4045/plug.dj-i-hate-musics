@@ -1,55 +1,3 @@
-/* Mikey */
-
-[data-cid^="6425281"].cm .msg .from .un,
-#user-lists .list.room .user.id-6425281 .name,
-#waitlist .list .user.id-6425281 .name {
-  color: rgb(66, 165, 220) !important;
-}
-
-[data-cid^="6425281"].message.role-bouncer,
-[data-cid^="6425281"].message.role-dj,
-[data-cid^="6425281"].message.role-manager,
-[data-cid^="6425281"].message.role-cohost,
-[data-cid^="6425281"].message.role-host {
-  -webkit-transition: all 0.25s linear;
-  -moz-transition: all 0.25s linear;
-  -o-transition: all 0.25s linear;
-  transition: all 0.25s linear;
-}
-
-[data-cid^="6425281"].message.role-bouncer:hover,
-[data-cid^="6425281"].message.role-dj:hover,
-[data-cid^="6425281"].message.role-manager:hover,
-[data-cid^="6425281"].message.role-cohost:hover,
-[data-cid^="6425281"].message.role-host:hover {
-  -webkit-box-shadow: inset 0 0 0 2px rgba(66, 165, 220, 1) !important;
-  -moz-box-shadow: inset 0 0 0 2px rgba(66, 165, 220, 1) !important;
-  -o-box-shadow: inset 0 0 0 2px rgba(66, 165, 220, 1) !important;
-  box-shadow: inset 0 0 0 2px rgba(66, 165, 220, 1) !important;
-}
-
-.id-6425281 > .msg > .from > i.icon-chat-dj,
-#user-lists .list.room .user.id-6425281 .icon-chat-dj {
-  background: url("http://i.imgur.com/uo82VVv.png") no-repeat !important;
-}
-
-.id-6425281 > .msg > .from > i.icon-chat-bouncer,
-#user-lists .list.room .user.id-6425281 .icon-chat-bouncer {
-  background: url("http://i.imgur.com/OECQ0Tf.png") no-repeat !important;
-}
-
-.id-6425281 > .msg > .from > i.icon-chat-manager,
-#user-lists .list.room .user.id-6425281 .icon-chat-manager {
-  background: url("http://i.imgur.com/34kIkHq.png") no-repeat !important;
-}
-
-.id-6425281 > .msg > .from > i.icon-chat-cohost,
-#user-lists .list.room .user.id-6425281 .icon-chat-cohost,
-.id-6425281 > .msg > .from > i.icon-chat-host,
-#user-lists .list.room .user.id-6425281 .icon-chat-host {
-  background: url("http://i.imgur.com/TyLTEgL.png") no-repeat !important;
-}
-
 /* Daria */
 
 .id-13955057 > .badge-box > i.bdg {
@@ -170,22 +118,4 @@
   content: url("https://i.imgur.com/Ev9MdsC.png") !important;
   float: left;
   margin: 0px 3px 0px 0px;
-}
-
-
-/* Mikey */
-
-.id-6425281 > .badge-box > i.bdg {
-  background-image: url("http://i.imgur.com/XrHFOwN.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
-#user-rollover.id-6425281 .badge-box > i.bdg {
-  border-radius: 6px;
-  background-image: url("http://i.imgur.com/XrHFOwN.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
 }

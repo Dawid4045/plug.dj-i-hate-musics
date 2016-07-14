@@ -62,13 +62,13 @@
 }
 
 #dj-button .left {
-  background: linear-gradient(to bottom, #00CC9E 0, #009C7A 100%);
+  background: linear-gradient(to bottom, #FF00C4 0, #FF00C4 100%); /*(to bottom, #00CC9E 0, #009C7A 100%) */
 }
 
 #dj-button.is-leave .left,
 #dj-button.is-quit .left,
 .dialog.destructive .button.submit {
-  background: linear-gradient(to bottom, #A282B3 0, #8B7099 100%);
+  background: linear-gradient(to bottom, #FF00C4 0, #FF00C4 100%); /* (to bottom, #A282B3 0, #8B7099 100%) */
 }
 /*  Community Theme Styling */
 /*  Created Originally By donvoo(https://github.com/donvoo) & greySynapse(https://github.com/greySynapse) */

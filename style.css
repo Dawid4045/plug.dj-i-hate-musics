@@ -923,27 +923,6 @@
 
 }
 
-/* WOOT GRAB MEH */
-#meh, #woot, #grab
-{
-        opacity:                0.6;
-        -webkit-transition:     all 0.3s ease;
-        -moz-transition:        all 0.3s ease;
-        -o-transition:          all 0.3s ease;
-        transition:             all 0.3s ease;
-}
-#vote:hover > #woot, 
-#vote:hover > #grab, 
-#vote:hover > #meh
-{
-        opacity:                0.75;
-}
-#vote #woot:hover, 
-#vote #grab:hover, 
-#vote #meh:hover
-{
-        opacity:                1;
-}
 
 /* DJ */
 /* #dj-button .left

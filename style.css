@@ -967,63 +967,6 @@
         box-shadow:             inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
 } */
 
-/* Delete Chat Hover */
-#chat .delete-button
-{
-        -webkit-transition:     all 0.2s linear;
-        -moz-transition:        all 0.2s linear;
-        -o-transition:          all 0.2s linear;
-        transition:             all 0.2s linear;  
-}
-
-/* Chat Hover Box */
-#chat .emote,
-#chat .log, 
-#chat .mention,
-#chat .message, 
-#chat .moderation, 
-#chat .promo, 
-#chat .skip,
-#chat .user-action,
-#chat .welcome
-{
-        -webkit-transition:     all 0.25s linear;
-        -moz-transition:        all 0.25s linear;
-        -o-transition:          all 0.25s linear;
-        transition:             all 0.25s linear;
-}
-#chat .emote:hover,
-#chat .log:hover, 
-#chat .mention:hover,
-#chat .message:hover, 
-#chat .moderation:hover, 
-#chat .promo:hover,
-#chat .skip:hover,
-#chat .user-action:hover, 
-#chat .welcome:hover
-{
-        -webkit-box-shadow:     inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
-        -moz-box-shadow:        inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
-        -o-box-shadow:          inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
-        box-shadow:             inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
-}
-/* Chat Message Fadein */
-#chat .emote:nth-child(n+1),
-#chat .log:nth-child(n+1),
-#chat .mention:nth-child(n+1), 
-#chat .message:nth-child(n+1),
-#chat .moderation:nth-child(n+1),
-#chat .skip:nth-child(n+1), 
-#chat .update:nth-child(n+1),
-#chat .user-action:nth-child(n+1),
-#chat .welcome:nth-child(n+1) 
-{ 
-        -webkit-animation:      fadein 0.35s; 
-        -moz-animation:         fadein 0.35s; 
-        -o-animation:           fadein 0.35s; 
-        animation:              fadein 0.35s; 
-} 
-
 /* User Rollover */
 #user-rollover
 {

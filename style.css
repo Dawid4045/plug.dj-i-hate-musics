@@ -50,6 +50,13 @@ opacity: 0.7;
 background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
 opacity: 0.7;
 }
+#woot.selected {
+background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
+}
+#woot.crowd-response.disabled.active .bottom {
+background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
+opacity: 0.7;
+}
 
 
 /* Logo */

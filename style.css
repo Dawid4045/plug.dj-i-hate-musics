@@ -25,12 +25,13 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-#meh:hover, /*Nie do końca*/
-#meh:focus, /*działa jak powinno*/
-#meh:active, /*chuj wie czemu*/
-#meh-rs { /*ale to już nie */
-  display: none !important; /*jest zależne od mnie */
-} /*JD*/
+/* #meh:hover, /*Nie do końca*/
+/* #meh:focus, /*działa jak powinno*/
+/* #meh:active, /*chuj wie czemu*/
+/* #meh-rs { /*ale to już nie */
+/*  display: none !important; /*jest zależne od mnie */
+/* } /*JU*/
+
 /* Guziki by Slimak */
 
 .top {

@@ -31,7 +31,24 @@
 #meh-rs { /*ale to już nie */
   display: none !important; /*jest zależne od mnie */
 } /*JD*/
+/* Guziki by Slimak */
 
+.top {
+background: linear-gradient(to bottom, #FF0088 0, #FF0088 100%);
+opacity: 0.9;
+}
+#vote .crowd-response.disabled .bottom {
+background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
+opacity: 0.7;
+}
+.bottom {
+background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
+opacity: 0.7;
+}
+#vote .bottom {
+background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
+opacity: 0.7;
+}
 
 
 /* Logo */

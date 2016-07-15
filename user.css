@@ -1,3 +1,21 @@
+/* Lutherinh0 */
+
+.id-63939634 > .badge-box > i.bdg {
+  background-image: url("http://i.imgur.com/fKqzgIz.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#user-rollover.id-63939634 .badge-box > i.bdg {
+  border-radius: 6px;
+  background-image: url("http://i.imgur.com/fKqzgIz.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
 /* Daria */
 
 .id-13955057 > .badge-box > i.bdg {

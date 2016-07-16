@@ -1983,3 +1983,38 @@ animation:rainbow 1s infinite !important;
 {
       background-color:                  rgba(84, 123, 160, 1) !important;             
 }
+.icon-chat-dj + span {
+    color: #89BE6C !important;
+}
+.icon-chat-dj {
+  background: url("http://i.imgur.com/8C4uQSw.png") !important;
+}
+
+.icon-chat-bouncer + span {
+    color: #5dfff9 !important;
+}
+.icon-chat-bouncer {
+  background: url("http://i.imgur.com/USwAyNY.png") !important;
+}
+
+.icon-chat-manager + span {
+    color: #a4ff00 !important;
+}
+.icon-chat-manager {
+  background: url("http://i.imgur.com/wP6AZhl.png") !important;
+}
+
+.icon-chat-cohost + span 
+{
+    color: #ffdb00 !important;
+}
+.icon-chat-cohost {
+  background: url("http://i.imgur.com/R4HZq1F.png") !important;
+}
+.icon-chat-host + span 
+{
+    color: #ff9b00 !important;
+}
+.icon-chat-host {
+  background: url("http://i.imgur.com/sdns9xW.png") !important;
+}

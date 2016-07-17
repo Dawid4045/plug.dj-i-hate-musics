@@ -3,65 +3,41 @@
 @import url(https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/user.css);
 
 /* Woot-Grab-Meh */
-
-#woot i.icon {
-  background-image: url("http://i.imgur.com/u5iwPJD.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
-#grab i.icon {
-  background-image: url("http://i.imgur.com/hrUd7ho.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
-#meh i.icon {
-  background-image: url("http://i.imgur.com/4wKIcKK.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-/* #meh:hover, /*Nie do końca*/
-/* #meh:focus, /*działa jak powinno*/
-/* #meh:active, /*chuj wie czemu*/
-/* #meh-rs { /*ale to już nie */
-/*  display: none !important; /*jest zależne od mnie */
-/* } /*JU*/
-
-/* Guziki by Slimak */
-
-.top {
-background: linear-gradient(to bottom, #FF0088 0, #FF0088 100%);
-opacity: 0.9;
-}
-#vote .crowd-response.disabled .bottom {
-background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
-opacity: 0.7;
-}
-.bottom {
-background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
-opacity: 0.7;
-}
-#vote .bottom {
-background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
-opacity: 0.7;
-}
-#woot.selected {
-background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
-}
-#woot.crowd-response.disabled.active .bottom {
-background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
-opacity: 0.7;
-}
-#grab .bottom, #grab.selected {
-background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
-}
-#grab.crowd-response.disabled.active .bottom {
-background: linear-gradient(to bottom, #FF00C8 0, #FF00C6 100%);
-}
+  .icon-grab {
+    background-image: url("https://vgy.me/Odlh10.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .icon-woot {
+    background-image: url("https://vgy.me/ZPkMuo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .icon-meh {
+    background-image: url("https://vgy.me/3EeGAY.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  #woot .bottom,
+  #woot.selected {
+    background: linear-gradient(to bottom, #00CC9E 0, #009C7A 100%);
+  }
+  
+  #grab .bottom,
+  #grab.selected {
+    background: linear-gradient(to bottom, #68AEFF 0, #6890ff 100%);
+  }
+  
+  #meh .bottom,
+  #meh.selected {
+    background: linear-gradient(to bottom, #A282B3 0, #8B7099 100%);
+  }
 
 /* Logo */
 

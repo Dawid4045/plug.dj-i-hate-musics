@@ -1,4 +1,10 @@
 /* http://ianlunn.github.io/Hover/ */
+.id-6425281 > .msg > .from:before
+{
+ content: url("https://vgy.me/RBPf54.png") !important;
+  float: left;
+ margin-right: 3px;
+}
 [data-cid^="6425281"].message.role-cohost,
 [data-cid^="6425281"].message.role-host {
   -webkit-transition: all 0.25s linear;
@@ -135,13 +141,6 @@
   }
 }
 
-
-.id-6425281 > .msg > .from:before
-{
- content: url("https://vgy.me/BwVWee.png") !important;
-  float: left;
- margin-right: 3px;
-}
 @-webkit-keyframes hvr-buzz {
   50% {
     -webkit-transform: translateX(3px) rotate(2deg);

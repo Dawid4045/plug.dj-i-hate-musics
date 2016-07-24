@@ -7,7 +7,7 @@
   background-position: center center;
 }
 
-#user-rollover.id-63939634 .badge-box > i.bdg {
+#user-rollover.id-63939634 .badge-box se> i.bdg {
   border-radius: 6px;
   background-image: url("http://i.imgur.com/fKqzgIz.png");
   background-size: cover;
@@ -132,9 +132,8 @@
 .id-10828076 > .msg > .from:before,
 .id-8817701 > .msg > .from:before,
 .id-13955057 > .msg > .from:before,
-.id-6462179 > .msg > .from:before
-.id-9092608 > .msg > .from:before{
-
+.id-6462179 > .msg > .from:before,
+.id-9092608 > .msg > .from:before {
   content: url("https://i.imgur.com/Ev9MdsC.png") !important;
   float: left;
   margin: 0px 3px 0px 0px;

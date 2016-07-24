@@ -1,1 +1,10 @@
 
+#chat-messages .id-7049112  {
+  color: rgba(125, 96, 206, 1) !important;
+  font-weight: bold !important;
+  font-style: italic !important;
+}
+
+[data-cid^="7049112"] .msg {
+  background: rgba(45, 27, 97, 0.1) !important;
+}

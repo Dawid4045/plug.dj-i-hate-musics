@@ -132,8 +132,7 @@
 .id-10828076 > .msg > .from:before,
 .id-8817701 > .msg > .from:before,
 .id-13955057 > .msg > .from:before,
-.id-6462179 > .msg > .from:before,
-.id-9092608 > .msg > .from:before {
+.id-6462179 > .msg > .from:before {
   content: url("https://i.imgur.com/Ev9MdsC.png") !important;
   float: left;
   margin: 0px 3px 0px 0px;

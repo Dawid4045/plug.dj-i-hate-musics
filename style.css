@@ -41,17 +41,20 @@
 }
 
 .votes-rs .title.woot,
-#woot.crowd-response.disabled.active .bottom {
+#woot.crowd-response.disabled.active .bottom,
+#woot-rs ::-webkit-scrollbar-thumb {
   background: linear-gradient(to bottom, #00CC9E 0, #009C7A 100%) !important;
 }
 
 .votes-rs .title.grab,
-#grab.crowd-response.disabled.active .bottom {
+#grab.crowd-response.disabled.active .bottom,
+#grab-rs ::-webkit-scrollbar-thumb{
   background: linear-gradient(to bottom, #68AEFF 0, #6890ff 100%) !important;
 }
 
 .votes-rs .title.meh,
-#meh.crowd-response.disabled.active .bottom {
+#meh.crowd-response.disabled.active .bottom,
+#meh-rs ::-webkit-scrollbar-thumb {
   background: linear-gradient(to bottom, #A282B3 0, #8B7099 100%) !important;
 }
 

@@ -1,3 +1,21 @@
+/* Dawid */
+
+.id-16427133 > .badge-box > i.bdg {
+  background-image: url("http://i.imgur.com/VCfxQ2S.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#user-rollover.id-16427133 .badge-box se> i.bdg {
+  border-radius: 6px;
+  background-image: url("http://i.imgur.com/VCfxQ2S.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
 /* Lutherinh0 */
 
 .id-63939634 > .badge-box > i.bdg {
@@ -68,25 +86,6 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
-
-/* Ja */
-
-.id-16427133 > .badge-box > i.bdg {
-  background-image: url("http://i.imgur.com/VCfxQ2S.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
-#user-rollover.id-16427133 .badge-box > i.bdg {
-  border-radius: 6px;
-  background-image: url("http://i.imgur.com/VCfxQ2S.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
 
 /* Paulina */
 

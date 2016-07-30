@@ -1,0 +1,75 @@
+/* Credit to Radiant for this CSS:  http://radiant.dj */
+/*Piaskownica Kamila*/
+#chat [data-cid^="7049112-"] span.un.clickable {
+  color: #d25ac3!important
+}
+
+#chat [data-cid^="7049112-"] .icon {
+  display: none!important
+}
+
+#chat .msg .text .id-7049112,
+#chat .msg .text .name.id-7049112,
+#chat .msg .text .name.id-7049112 .name {
+  color: #d25ac3!important
+}
+
+#chat [data-cid^="7049112-"] {
+  background: rgba(230, 0, 255, .10)!important
+}
+
+#chat [data-cid^="7049112-"] .timestamp {
+  color: #a993c7!important
+}
+
+#chat [data-cid^="7049112-"] .text {
+  color: #ddc7ff!important
+}
+
+.id-7049112 span.un.clickable,
+#user-lists .list.room .id-7049112 .name,
+#user-lists .list.room .is-staff.id-7049112 .name,
+#user-lists .list.room .is-dj.id-7049112 .name,
+#user-lists .list.room .is-subscriber.id-7049112 .name,
+#user-lists .list.room [class*="role"].id-7049112 .name {
+  color: #d25ac3!important
+}
+
+#chat .id-7049112 .icon {
+  display: none!important
+}
+
+[data-cid^="7049112-"] .msg .from .icon-chat-dj,
+#user-lists .list.room .id-7049112 .icon-chat-dj {
+  background: url(https://cdn.radiant.dj/rcs/icons/radiant/xlitebot_dj.png.pagespeed.ic.rldNCw5TI6.png)!important
+}
+
+[data-cid^="7049112-"] .msg .from .icon-chat-bouncer,
+#user-lists .list.room .id-7049112 .icon-chat-bouncer {
+  background: url(https://cdn.radiant.dj/rcs/icons/radiant/xlitebot_bouncer.png.pagespeed.ic.ZnDPrrmPVO.png)!important
+}
+
+[data-cid^="7049112-"] .msg .from .icon-chat-manager,
+#user-lists .list.room .id-7049112 .icon-chat-manager {
+  background: url(https://cdn.radiant.dj/rcs/icons/radiant/xlitebot_manager.png.pagespeed.ic.hpz7lSyhvL.png)!important
+}
+
+[data-cid^="7049112-"] .msg .from .icon-chat-cohost,
+#user-lists .list.room .id-7049112 .icon-chat-cohost {
+  background: url(https://cdn.radiant.dj/rcs/icons/radiant/xlitebot_cohost.png.pagespeed.ic.fU9ZqWGDFT.png)!important
+}
+
+[data-cid^="7049112-"] .msg .from .icon-chat-host,
+#user-lists .list.room .id-7049112 .icon-chat-host {
+  background: url(https://cdn.radiant.dj/rcs/icons/radiant/xlitebot_host.png.pagespeed.ic.fU9ZqWGDFT.png)!important
+}
+
+#user-rollover.id-7049112 .username {
+  color: #d25ac3!important
+}
+
+#chat .msg .text .id-7049112,
+#chat .msg .text .name.id-7049112,
+#chat .msg .text .name.id-7049112 .name {
+  color: #d25ac3!important
+}

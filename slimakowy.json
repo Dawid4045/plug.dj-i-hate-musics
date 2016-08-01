@@ -4,7 +4,7 @@
 	"icon": null,
 	"css": "https://rawgit.com/Dawid4045/plug.dj-i-hate-musics/master/style.css",
 	"rules": {
-		"allowAutorespond": true,
+		"allowAutorespond": false,
 		"allowAutowoot": true,
 		"allowAutojoin": false,
 		"allowAutograb": true,

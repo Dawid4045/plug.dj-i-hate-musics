@@ -1,7 +1,28 @@
 /* Credit to Radiant for this CSS:  http://radiant.dj */
+
+
 /*Piaskownica Kamila*/
+
+@import url(https://fonts.googleapis.com/css?family=Inconsolata&subset=latin,latin-ext);
+.id-7049112 > .badge-box > i.bdg {
+  background-image: url("https://vgy.me/W6qN2W.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#user-rollover.id-7049112 .badge-box > i.bdg {
+  border-radius: 6px;
+  background-image: url("https://vgy.me/W6qN2W.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 #chat [data-cid^="7049112-"] span.un.clickable {
   color: #d25ac3 !important;
+  font-family: 'Inconsolata' !important;
+  font-size: 14px !important;
 }
 
 #chat [data-cid^="7049112-"] .icon {
@@ -24,6 +45,8 @@
 
 #chat [data-cid^="7049112-"] .text {
   color: #ddc7ff !important;
+  font-family: 'Inconsolata' !important;
+  font-size: 14px !important;
 }
 
 .id-7049112 span.un.clickable,

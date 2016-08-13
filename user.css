@@ -15,6 +15,13 @@
   background-position: center center;
 }
 
+#chat-messages .fromID-16427133 .bdg {
+  background-image: url("https://i.imgur.com/VCfxQ2S.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 
 /* Lutherinh0 */
 
@@ -32,7 +39,12 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
+#chat-messages .fromID-63939634 .bdg {
+  background-image: url("https://i.imgur.com/fKqzgIz.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
 /* Daria */
 
@@ -50,7 +62,12 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
+#chat-messages .fromID-13955057 .bdg {
+  background-image: url("https://i.imgur.com/mJNtNin.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
 /* Artur */
 
@@ -68,7 +85,12 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
+#chat-messages .fromID-10542387 .bdg {
+  background-image: url("https://i.imgur.com/yawBN1j.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
 /* Kamil */
 
@@ -86,7 +108,12 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
+#chat-messages .fromID-9092608 .bdg {
+  background-image: url("https://i.imgur.com/QIqgQu5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 /* Paulina */
 
 .id-10607990 > .badge-box > i.bdg {
@@ -103,7 +130,12 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
+#chat-messages .fromID-10607990 .bdg {
+  background-image: url("https://i.imgur.com/uesjWnB.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
 /* Nevcio */
 
@@ -121,7 +153,12 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
+#chat-messages .fromID-6615469 .bdg {
+  background-image: url("https://i.imgur.com/EHRCnKH.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
 /* Serce obok nicku */
 

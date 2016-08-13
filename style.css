@@ -74,7 +74,9 @@
 
 
 /* Inne małe zmiany */
-
+#room-bar .icon-room {
+  display: none;
+}
 #volume .slider {
   display: block !Important;
 }

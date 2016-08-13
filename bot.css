@@ -19,6 +19,14 @@
   background-position: center center;
 }
 
+#chat-messages .fromID-7049112 .bdg: {
+  background-image: url("https://vgy.me/W6qN2W.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
 #chat [data-cid^="7049112-"] span.un.clickable {
   color: #d25ac3 !important;
   font-family: 'Inconsolata' !important;

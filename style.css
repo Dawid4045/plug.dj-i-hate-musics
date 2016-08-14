@@ -70,6 +70,8 @@
   margin-left: 13px;
   background: url("https://i.imgur.com/rDUbkAL.png") no-repeat top left content-box;
   height: 50px;
+  left: 0px;
+  width: 250px !important;
 }
 
 

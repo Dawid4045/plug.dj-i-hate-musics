@@ -105,7 +105,21 @@
 #dj-button.is-quit .left {
   background: linear-gradient(to bottom, #A282B3 0, #8B7099 100%);
 }
+.bar-divider {
+	top: 0;
+	height: 58px;
+	background: #090909;
+}
 
+#plugcubed {
+	border-right: 1px solid #090909 !important;
+	background: #030007 !important;
+}
+
+#p3-settings-custom-colors .container,
+#p3-settings .container {
+	background: #030007;
+}
 
 /*kurwa, jak się bawić to się bawić
 https://codepen.io/beben-koben/pen/gfuvc */

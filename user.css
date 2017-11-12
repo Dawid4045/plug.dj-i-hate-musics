@@ -37,6 +37,10 @@
 
 
 /* Daria */
+ .user id-13955057 role-cohost is-staff {
+   color: #17fefe;
+   
+}
 
 .id-13955057 > .badge-box > i.bdg,
 #chat-messages .fromID-13955057 .bdg {

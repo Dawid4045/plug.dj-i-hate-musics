@@ -37,10 +37,6 @@
 
 
 /* Daria */
- .user id-13955057 role-cohost is-staff {
-   color: #17fefe;
-   
-}
 
 .id-13955057 > .badge-box > i.bdg,
 #chat-messages .fromID-13955057 .bdg {
@@ -49,8 +45,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 50px;
-  width: 50px;
+
 }
 
 #user-rollover.id-13955057 .badge-box > i.bdg {
@@ -60,8 +55,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 50px;
-  width: 50px;
+
 }
 
 

@@ -44,7 +44,8 @@
 
 .id-13955057 > .badge-box > i.bdg,
 #chat-messages .fromID-13955057 .bdg {
-  background-image: url("https://i.imgur.com/41lbMGX.gif");
+  color: #17fefe;
+  background-image: url("https://i.imgur.com/lG72tJB.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -53,8 +54,9 @@
 }
 
 #user-rollover.id-13955057 .badge-box > i.bdg {
+  color: #17fefe;
   border-radius: 6px;
-  background-image: url("https://i.imgur.com/41lbMGX.gif");
+  background-image: url("https://i.imgur.com/lG72tJB.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;

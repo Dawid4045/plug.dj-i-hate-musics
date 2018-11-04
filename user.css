@@ -152,7 +152,9 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-
+.msg > .from > #chat-messages  .text{
+position: absolute;
+}
 
 /* Serce obok nicku */
 
@@ -162,9 +164,7 @@
 content: url("https://i.imgur.com/Ev9MdsC.png");
 float:left;
 }
-.id-8817701 > .msg > .text{
-position: absolute;
-}
+
 
 /* Daria */
 
@@ -172,6 +172,4 @@ position: absolute;
 content: url("https://i.imgur.com/Ev9MdsC.png");
 float:left;
 }
-.id-13955057 > .msg > .text{
-position: absolute;
-}
+

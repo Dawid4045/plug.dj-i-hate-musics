@@ -156,13 +156,22 @@
 
 /* Serce obok nicku */
 
-.id-10764385 > .msg > .from:after,
-.id-10607990 > .msg > .from:after,
-.id-6315115 > .msg > .from:after,
-.id-10828076 > .msg > .from:after,
-.id-8817701 > .msg > .from:after,
-.id-13955057 > .msg > .from:after,
-.id-6462179 > .msg > .from:after {
-  content: url("https://i.imgur.com/Ev9MdsC.png") !important;
-  margin: 0px 0px 0px 0px;
+/* Karolina */
+
+.id-8817701 > .msg > .from:before {
+content: url("https://i.imgur.com/Ev9MdsC.png");
+float:left;
+}
+.id-8817701 > .text{
+position: absolute;
+}
+
+/* Daria */
+
+.id-13955057 > .msg > .from:before {
+content: url("https://i.imgur.com/Ev9MdsC.png");
+float:left;
+}
+.id-13955057 > .text{
+position: absolute;
 }

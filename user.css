@@ -162,7 +162,7 @@
 content: url("https://i.imgur.com/Ev9MdsC.png");
 float:left;
 }
-.id-8817701 > .text{
+.id-8817701 > .msg > .text{
 position: absolute;
 }
 
@@ -172,6 +172,6 @@ position: absolute;
 content: url("https://i.imgur.com/Ev9MdsC.png");
 float:left;
 }
-.id-13955057 > .text{
+.id-13955057 > .msg > .text{
 position: absolute;
 }

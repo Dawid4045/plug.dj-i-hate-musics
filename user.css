@@ -152,24 +152,20 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
-.msg > .from > #chat-messages  .text{
-position: absolute;
-}
+
 
 /* Serce obok nicku */
 
 /* Karolina */
 
-.id-8817701 > .msg > .from:before {
+.id-8817701 > .msg > .from:after {
 content: url("https://i.imgur.com/Ev9MdsC.png");
-float:left;
 }
 
 
 /* Daria */
 
-.id-13955057 > .msg > .from:before {
+.id-13955057 > .msg > .from:after {
 content: url("https://i.imgur.com/Ev9MdsC.png");
-float:left;
 }
 
